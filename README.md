@@ -1,1 +1,1 @@
-== String librairy for sandjs
+## String librairy for sandjs
