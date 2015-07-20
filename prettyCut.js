@@ -1,4 +1,4 @@
-sand.define("String/prettyCut", function() {
+define("String/prettyCut", function() {
   
   String.prototype.prettyCut = function(n, end) {
     end || (end = "...");
