@@ -1,4 +1,4 @@
-sand.define("String/indexesOf",function(){
+define("String/indexesOf",function(){
   String.prototype.indexesOf = function(v){
     var i,current = this.concat(),dec=0,indexes= [];
     while((i = current.indexOf(v)) !== -1){
