@@ -1,7 +1,7 @@
 {
   "name": "String",
   "version": "0.0.0",
-  "description": "String librairy for sandjs",
+  "description": "String librairy",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
