@@ -1,3 +1,7 @@
+if (typeof define !== "function") {
+    var define = require("amdefine")(module);
+}
+
 define("String/indexesOf",function(){
   String.prototype.indexesOf = function(v){
     var i,current = this.concat(),dec=0,indexes= [];
